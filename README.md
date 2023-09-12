@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Cross-sama
 -  I’m interested in anything, games, anime, manga, books
 -  I’m currently learning JavaScript
-- 📫 How to reach me ...
+- 📫 How to reach me:
+   Discord: crosssama
 
 <!---
 Cross-sama/Cross-sama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
